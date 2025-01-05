@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/0001-two-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayavijaay/leetcode_problems/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
