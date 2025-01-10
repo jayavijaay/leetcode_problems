@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayavijaay/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavijaay/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/0001-two-sum) |
+| [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -39,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
