@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayavijaay/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -101,4 +102,20 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
