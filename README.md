@@ -14,6 +14,7 @@
 | [2465-shifting-letters-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayavijaay/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jayavijaay/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
 |  |
 | ------- |
