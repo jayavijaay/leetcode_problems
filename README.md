@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavijaay/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavijaay/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -51,6 +52,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavijaay/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayavijaay/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavijaay/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavijaay/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavijaay/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
