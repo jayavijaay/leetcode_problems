@@ -17,6 +17,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayavijaay/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jayavijaay/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavijaay/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavijaay/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
