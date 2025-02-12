@@ -14,6 +14,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayavijaay/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayavijaay/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jayavijaay/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -35,6 +36,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jayavijaay/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavijaay/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -138,4 +140,12 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jayavijaay/leetcode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
