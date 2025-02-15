@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayavijaay/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
