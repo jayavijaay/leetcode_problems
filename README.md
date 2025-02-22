@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jayavijaay/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayavijaay/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jayavijaay/leetcode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jayavijaay/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -178,6 +180,7 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jayavijaay/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
@@ -186,5 +189,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jayavijaay/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
