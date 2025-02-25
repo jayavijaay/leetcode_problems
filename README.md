@@ -11,6 +11,7 @@
 | [0952-word-subsets](https://github.com/jayavijaay/leetcode_problems/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/jayavijaay/leetcode_problems/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jayavijaay/leetcode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayavijaay/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayavijaay/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jayavijaay/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/2465-shifting-letters-ii) |
@@ -196,4 +199,8 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayavijaay/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jayavijaay/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayavijaay/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
