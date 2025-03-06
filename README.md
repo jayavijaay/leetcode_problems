@@ -25,6 +25,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayavijaay/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/jayavijaay/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayavijaay/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jayavijaay/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -54,6 +55,7 @@
 | [2107-find-unique-binary-string](https://github.com/jayavijaay/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayavijaay/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayavijaay/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/jayavijaay/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayavijaay/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayavijaay/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -68,6 +70,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayavijaay/leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jayavijaay/leetcode_problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/jayavijaay/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/jayavijaay/leetcode_problems/tree/master/0854-making-a-large-island) |
+| [3227-find-missing-and-repeated-values](https://github.com/jayavijaay/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
