@@ -26,6 +26,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayavijaay/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/jayavijaay/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/jayavijaay/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayavijaay/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayavijaay/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayavijaay/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -40,6 +41,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jayavijaay/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayavijaay/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayavijaay/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/jayavijaay/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/jayavijaay/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
